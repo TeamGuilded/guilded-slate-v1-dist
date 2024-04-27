@@ -1,0 +1,11 @@
+{
+  "name": "guilded-slate-v1-dist",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Guilded, Inc.",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "slate": "0.44.12"
+  }
+}
